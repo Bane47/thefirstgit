@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Say my name!!!
 You're Heise
 =======
 Say my name!!!
 >>>>>>> df7e282 (stash commit)
+=======
+Say my name!!!
+You're Heise
+>>>>>>> de61ccb (stash commit 2)
